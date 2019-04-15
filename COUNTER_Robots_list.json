@@ -360,6 +360,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Feedbin",
+    "last_changed": "2019-01-22"
+  },
+  {
     "pattern": "feedburner",
     "last_changed": "2017-08-08"
   },
@@ -909,6 +913,11 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "ScoutJet",
+    "last_changed": "2019-02-12",
+    "url": "http://www.scoutjet.com/"
+  },  
+  {
     "pattern": "^scrutiny\\/\\d",
     "last_changed": "2017-08-08"
   },
@@ -1138,11 +1147,33 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Yeti\\/\\d",
+    "last_changed": "2019-02-12",
+    "url": "http://naver.me/spd"
+  },
+  {
     "pattern": "zeus",
     "last_changed": "2017-08-08"
   },
   {
     "pattern": "zyborg",
     "last_changed": "2017-08-08"
+   },
+  {
+    "pattern": "Mozilla.5.0 .Windows. U. Windows NT 5.1. ru. rv.1.8.1.11. Gecko.20071127 Firefox.2.0.*",
+    "last_changed": "2019-02-28"
+  },
+   {
+    "pattern": "Mozilla.5.0 .X11. U. Linux i686. en-US. rv:1.2.1. Gecko/20021204*",
+    "last_changed": "2019-03-15"
+  },
+   {
+    "pattern": "HTTP-Tiny.0.07*",
+    "last_changed": "2019-03-15"
+  },
+   {
+    "pattern": "UB T.*bingen C\\+\\+ Downloader",
+    "last_changed": "2019-04-15",
+    "description": "UB TÃ¼bingen C++ Downloader; Tübingen; up to 100.000 document downloads on DNB-objects in 2019-01-01 to 2019-04-09"
   }
 ]
