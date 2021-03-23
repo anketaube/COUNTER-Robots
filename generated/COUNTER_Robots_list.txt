@@ -67,7 +67,7 @@ curl\/
 cursor
 custo
 DataCha0s\/2\.0
-daumoa
+daum(oa)?
 ^\%?default\%?$
 DeuSu\/
 Dispatch\/\d
@@ -235,11 +235,13 @@ ScoutJet
 ^scrutiny\/\d
 SearchBloxIntra
 shoutcast
+Site24x7
 SkypeUriPreview
 slurp
 sogou
 speedy
 sqlmap
+SrceDAMP
 Strider
 summify
 sunrise
