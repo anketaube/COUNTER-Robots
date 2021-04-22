@@ -1058,6 +1058,10 @@
     "last_changed": "2017-08-08"
   },
   {
+    "pattern": "Trello",
+    "last_changed": "2021-03-30"
+  },
+  {
     "pattern": "Trove",
     "last_changed": "2017-08-08"
   },
@@ -1201,6 +1205,10 @@
   {
     "pattern": "Wget",
     "last_changed": "2017-08-08"
+  },
+  {
+    "pattern": "WhatsApp",
+    "last_changed": "2021-03-30"
   },
   {
     "pattern": "wordpress",

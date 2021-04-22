@@ -253,6 +253,7 @@ Teoma
 The\+Knowledge\+AI
 titan
 ^Traackr\.com$
+Trello
 Trove
 Turnitin
 twiceler
@@ -288,6 +289,7 @@ webreaper
 WebStripper
 WebZIP
 Wget
+WhatsApp
 wordpress
 worm
 www\.gnip\.com
